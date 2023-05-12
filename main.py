@@ -1,4 +1,3 @@
-# Note: This script runs only on a local IDE with "streamlit run main.py"
 import streamlit as st
 from PIL import Image
 
